@@ -13,7 +13,7 @@ public class HelloWildFlyController {
     }
 
     @RequestMapping("test")
-    public String sayHello(){
+    public String test(){
         return ("TEST !!");
     }
 }
